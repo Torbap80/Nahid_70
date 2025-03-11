@@ -1,1 +1,33 @@
-
+*{
+margin: 0;
+padding: 0;
+}
+h1,h2,h3,h4,h5,h6,p,uI{
+margin: 0;
+padding: 0;
+}
+header{
+    
+}
+.hedar_wrapper{
+padding: 30px 20px;
+display :flax;   
+}
+.logo{
+margin-laft: 14%;    
+margin-top: -10%;
+}
+.navlink{
+display:flax;
+margin-laft: auto; 
+margin-right;14%;  
+}
+.navlink uI{
+    
+}
+.navlink uI li{
+    
+}
+.navlink uI li a{
+    
+}
